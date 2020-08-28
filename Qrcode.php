@@ -19,7 +19,7 @@ class Qrcode extends \yii\base\Component
 
     public function run()
     {
-        return \Yii::getAlias($path);
+        return \Yii::getAlias($this->path);
     }
 
 
