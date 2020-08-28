@@ -1,0 +1,21 @@
+{
+    "name": "repo-php/yii2-qrcode-tools",
+    "description": "Qrcode tools for yii2 ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","qrcode","input","read","php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sultonov Daler",
+            "email": "daler.sultonov.00@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "repoPhp\\qrcode\\": ""
+        }
+    }
+}
