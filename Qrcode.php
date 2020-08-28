@@ -12,3 +12,4 @@ class Qrcode extends \yii\base\Widget
         return "Hello!";
     }
 }
+
