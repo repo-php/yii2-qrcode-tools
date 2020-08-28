@@ -1,7 +1,7 @@
 {
     "name": "repo-php/yii2-qrcode-tools",
     "description": "Qrcode tools for yii2 ",
-    "type": "yii2-extension",
+    "type": "yii2-component",
     "keywords": ["yii2","extension","qrcode","input","read","php"],
     "license": "MIT",
     "authors": [
