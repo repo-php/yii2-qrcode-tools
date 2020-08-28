@@ -15,10 +15,11 @@ class Qrcode extends \yii\base\Component
 
     public $data;
 
-    public
+    public $path = '@app/qrcode/';
+
     public function run()
     {
-        return "Hello!";
+        return \Yii::getAlias($path);
     }
 
 
